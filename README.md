@@ -8,9 +8,7 @@
 <details>
 <summary>Click to view project demo video</summary>
 
-<div align="center">
-<iframe src="https://player.vimeo.com/video/1004822857" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Untitled"></iframe>
-
+https://player.vimeo.com/video/1004822857
 
 </details>
 
