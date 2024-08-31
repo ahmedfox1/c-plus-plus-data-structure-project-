@@ -3,8 +3,6 @@
 <div align="center">
 <img src="c++ data structure project.png" alt="Project Screenshot" width="600"> </div>
 
-
-
 *This repository houses a C++ project dedicated to visualizing various data structures in an interactive manner.* 
 
 <div align="center">
