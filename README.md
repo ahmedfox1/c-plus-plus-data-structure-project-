@@ -1,69 +1,35 @@
 # C++ Data Structure Visualization
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<div align="center">
+<img src="path/to/your/screenshot.png" alt="Project Screenshot" width="600"> </div>
 
-This repository houses a C++ project dedicated to visualizing various data structures in an interactive manner. 
+**Description:**
 
-## Table of Contents
+*This repository houses a C++ project dedicated to visualizing various data structures in an interactive manner.* 
 
-* [Introduction](#introduction)
-* [Features](#features)
-* [Data Structures Visualized](#data-structures-visualized)
-* [Algorithms Implemented](#algorithms-implemented)
-* [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
-    * [Usage](#usage)
-* [Screenshots](#screenshots) (Optional)
-* [Contributing](#contributing)
-* [License](#license)
-* [Acknowledgments](#acknowledgments)
+<div align="center">
+<a href="link/to/your/video"><img src="path/to/video/thumbnail.jpg" alt="Video Thumbnail" width="400"></a> 
+*Click the image above to watch a demo video of the project.*
+</div>
 
-## Introduction
+**Key Features:**
 
-Provide a brief overview of the project's purpose and motivation. Explain how the visualization tool aids in understanding data structures and algorithms.
+* Interactive Visualization
+* Algorithm Implementation
+* User-Friendly Interface
 
-## Features
+**Getting Started:**
 
-* Highlight the key features of your application, such as:
-    * Interactive visualization of data structure creation, manipulation, and traversal
-    * Implementation of essential algorithms (BFS, DFS, etc.) 
-    * User-friendly graphical interface
+*Refer to the project documentation for installation and usage instructions.*
 
-## Data Structures Visualized
+**Contributing:**
 
-List the specific data structures your project supports (e.g., trees, graphs, linked lists, stacks, queues).
+*Contributions are welcome! Please see the CONTRIBUTING.md file for guidelines.*
 
-## Algorithms Implemented
+**License:**
 
-Enumerate the algorithms you've implemented for interacting with the data structures (e.g., Breadth-First Search, Depth-First Search, insertion, deletion, search).
+*This project is licensed under the MIT License.*
 
-## Getting Started
+**Acknowledgments:**
 
-### Prerequisites
-
-List any software or libraries required to run your project (e.g., a specific C++ compiler, graphics library).
-
-### Installation
-
-Provide step-by-step instructions on how to build and install your project. Consider including commands for compiling the code and any necessary setup steps.
-
-### Usage
-
-Explain how to launch and interact with the application. Provide examples of how to visualize different data structures and execute algorithms.
-
-## Screenshots (Optional)
-
-Include a few screenshots or GIFs showcasing the visualization tool in action.
-
-## Contributing
-
-Explain how others can contribute to your project. Outline guidelines for submitting bug reports, feature requests, or pull requests. 
-
-## License
-
-Specify the license under which your project is distributed (e.g., MIT License).
-
-## Acknowledgments
-
-Acknowledge any individuals, libraries, or resources that helped you in developing this project. Express your gratitude to your teammates for their contributions!
+*A special thanks to my amazing team for their contributions!*
