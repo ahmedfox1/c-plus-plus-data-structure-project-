@@ -1,7 +1,7 @@
 # C++ Data Structure Visualization
 
 <div align="center">
-<img src="path/to/your/screenshot.png" alt="Project Screenshot" width="600"> </div>
+<img src="c++ data structure project.png" alt="Project Screenshot" width="600"> </div>
 
 **Description:**
 
