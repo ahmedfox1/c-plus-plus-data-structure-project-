@@ -8,8 +8,7 @@
 *This repository houses a C++ project dedicated to visualizing various data structures in an interactive manner.* 
 
 <div align="center">
-<a href="https://vimeo.com/1004822857?share=copy"><img src="c++ data structure project.png" alt="Video Thumbnail" width="400"></a> 
-*Click the image above to watch a demo video of the project.*
+<a href="https://vimeo.com/1004822857?share=copy"></a> 
 </div>
 
 **Key Features:**
